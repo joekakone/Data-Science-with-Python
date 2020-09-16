@@ -1,8 +1,8 @@
-# Learn Data Science by ''Benin AI Community''
+# Apprendre et pratiquer la science des données
 
-Série de didacticiels sur la Data Science
+Série de didacticiels sur la Data Science pour la communauté francophone
 
-Python >=3.7
+Les cahiers ont créés sous `Python >=3.7`.
 
 ## Table des matières
 
@@ -19,8 +19,9 @@ Python >=3.7
     * 2.3: Régression logistique [[Notebook]](2_3_régression_logistique.ipynb)
     * 2.4: Séparatrices à Vastes Marges [[Notebook]](2_4_svm.ipynb)
     * 2.5: Arbres de décision [[Notebook]](2_5_trees.ipynb)
-    * 2.6: Forêts Aléatoires [[Notebook]](2_6_random_forest.ipynb)
-    * 2.7: Gradient Boosting [[Notebook]](2_6_gradient_boosting.ipynb)
+    * 2.6: Bagging [[Notebook]](2_6_bagging.ipynb)
+    * 2.7: Forêts Aléatoires [[Notebook]](2_7_random_forest.ipynb)
+    * 2.8: Gradient Boosting [[Notebook]](2_8_gradient_boosting.ipynb)
 
 
 * Module 3: Apprentissage non supervisé
@@ -39,15 +40,15 @@ Python >=3.7
 
 
 * Module 5: Bonnes pratiques
-    * 5.1: Analyse en Composantes Principales [[Notebook]](5_1_acp.ipynb)
+    * 5.1: Construire un pipeline avec Sklearn [[Notebook]](5_1_sklearn_pipeline.ipynb)
     * 5.2: Créer son propre générateur de données [[Notebook]](5_2_custom_datagen.ipynb)
 
 ## Licence
 Sous **MIT Licence**
 
-## Sponsors
 
+## Contribuer
+Si vous souhaitez contribuer à ce projet, veuillez consulter [CONTRIBUTING](CONTRIBUTING.md); vous y trouverez toutes les instructions.
 
-## Contributing
-
-Si vous souhaitez contribuer à ce projet, veuillez consulter [CONTRIBUTING](CONTRIBUTING.md); vous y trouverez toutes les instructions pour contribuer à ce projet.
+## Signaler un problème
+Pour signaler un problème que vous avez rencontré durant l'exécution des cahiers, merci de créer une `issue`. *Assurez-vous que vous avez les bonnes versions des packages*
